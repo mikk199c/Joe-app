@@ -169,3 +169,7 @@ article a {
 #forside video {
     margin-right: 30px;
 }
+
+#bert img {
+    max-width: 800px;
+}
